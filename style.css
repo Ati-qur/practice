@@ -1,0 +1,16 @@
+.brodar
+    {
+    height: 250px;
+    width: 250px;
+   
+    border: 2px solid;
+    border-radius: 50px 70px 30px 60px;
+    margin: 40px 70px 80px;
+
+    padding: ;
+    text-align: center ;
+    
+    }
+
+.bucks{display: inline;}
+.inline-e{display: block;}
